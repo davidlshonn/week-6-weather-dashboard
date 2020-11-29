@@ -2,7 +2,7 @@
 
 ## Sceen Captures of Live Application
 
-![WebPage ScreenCapture](/Assets/Live-Application-Capture.jpg "ScreenCapture")
+![WebPage ScreenCapture](Assets\Live-Application-Capture.JPG "ScreenCapture")
 
 ## Link to Live Website
 
